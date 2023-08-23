@@ -1,7 +1,7 @@
 # Point tester | React JS
   
 
-## Projeto feito em entrevista de emprego
+## Projeto feito em entrevista de emprego junior
   
   Objetivo do projeto é uma aplicação web que mostre pequenos círculos onde foi 
   clicado na tela do usuário, sem limite máximo.
